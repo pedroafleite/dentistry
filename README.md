@@ -1,7 +1,9 @@
 # Análise Estatística para Estudo de Odontologia
-Co-autor com Luis Gustavo Ferreira Leite
+Co-autor com Luis Gustavo Ferreira Leite.
 
-Análise estatística para projeto de Odontologia da Unesp de São José dos Campos-SP.
+Projeto de Odontologia da Unesp de São José dos Campos-SP.
+
+[Veja a Análise Estatística completa aqui](https://github.com/pedroafleite/dentistry/blob/main/dentistry.md).
 
 ## Objetivo
 O objetivo deste estudo foi analisar a relação entre a inclinação do tubérculo articular e o grau de mobilidade da cabeça da mandíbula, o volume do disco articular, e a posição e função do disco articular. 
